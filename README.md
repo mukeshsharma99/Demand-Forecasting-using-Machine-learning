@@ -47,23 +47,32 @@ Weekend and Holiday Effects: It was hypothesized that weekends and holidays woul
 EDA was performed to gain insights into the relationships between features and the target variable (sales):
 
 Bar Plots: Visualizations were created to see the average sales across various features like year, month, store, and product.
+
 Line Plots: Sales patterns over time (monthly, daily) were analyzed.
+
 Correlation Heatmap: To identify potential multicollinearity among the features, a correlation heatmap was generated.
+
 #### 4. Model Training
 Various machine learning models were trained on the preprocessed data to predict product demand:
 
 Linear Regression: A basic model for capturing linear relationships.
-XGBoost Regressor: A powerful gradient boosting algorithm known for high accuracy.
+
 Lasso: A linear regression model with L1 regularization to prevent overfitting.
+
 Ridge: A linear regression model with L2 regularization.
 #### 5. Model Evaluation
-Models were evaluated using the Mean Absolute Error (MAE) on both the training and validation datasets. MAE was chosen as the evaluation metric because it measures the average magnitude of errors in a set of predictions, without considering their direction.
+Models were evaluated using the Mean Absolute Error (MAE) on both the training and validation datasets.MAE was chosen as the evaluation metric because it measures the average magnitude of errors in a set of predictions, without considering their direction.
 
 #### Technologies Used
 Python: The main programming language used for data analysis and machine learning.
+
 Pandas: For data manipulation and analysis.
+
 NumPy: For numerical operations.
+
 Matplotlib & Seaborn: For data visualization and plotting.
+
 Scikit-learn: For machine learning models and data preprocessing.
+
 Jupyter Notebook: For code execution and documentation.
 
