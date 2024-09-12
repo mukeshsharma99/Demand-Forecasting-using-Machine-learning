@@ -6,4 +6,16 @@ This project aims to predict the demand (sales) for various products sold in mul
 
 The project includes various stages such as data preprocessing, feature engineering, exploratory data analysis (EDA), model training, evaluation, and deployment of the best-performing model.
 
+# Table of Contents
+## Project Overview
+## Dataset
+## Problem Statement
+## Solution Approach
+## Data Preprocessing
+## Feature Engineering
+## Exploratory Data Analysis
+## Model Training
+## Model Evaluation
+## Technologies Used
+
 
