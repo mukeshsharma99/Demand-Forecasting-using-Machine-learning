@@ -74,5 +74,5 @@ Matplotlib & Seaborn: For data visualization and plotting.
 
 Scikit-learn: For machine learning models and data preprocessing.
 
-Jupyter Notebook: For code execution and documentation.
+Jupyter Notebook: For code execution and documentation. 
 
