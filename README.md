@@ -12,7 +12,7 @@ The project includes various stages such as data preprocessing, feature engineer
 - [ Dataset](####train.csv)
 - [Project Structure](####project-structure)
 - [Problem Statement](####problem-statement)
-- [Solution Approach](####solution-approach)
+- [Solution Approach](####solution-approach) 
   - Data Preprocessing
   - Feature Engineering
   - Exploratory Data Analysis
